@@ -1,4 +1,4 @@
-#### Subject of the issue
+#### Subject of the issue:
 Describe your issue here
 
 #### Your environment:
