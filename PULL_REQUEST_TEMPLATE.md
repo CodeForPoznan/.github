@@ -7,9 +7,6 @@ Describe changes made in your pull request here
 #### Migrations:
 N/A
 
-#### Rollback:
-N/A
-
 #### New imports / dependencies:
 N/A
 
